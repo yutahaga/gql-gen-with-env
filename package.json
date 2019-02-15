@@ -1,0 +1,14 @@
+{
+  "name": "gql-gen-with-env",
+  "version": "1.0.0",
+  "author": "Yuta Haga",
+  "bin": {
+    "gql-gen-with-env": "bin/index.js"
+  },
+  "dependencies": {
+    "find-root": "^1.1.0",
+    "uuid": "^3.3.2",
+    "graphql-code-generator": "^0.16.1",
+    "webpack-node-externals": "^1.7.2"
+  }
+}
